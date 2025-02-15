@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently pursuing PG DAC (DMC)<br>Ex-Persistent Systems<br>50+ leetcode problems
+I'm currently pursuing PG DAC (DMC)<br>Ex-Persistent Systems<br>30+ leetcode problems
 
 
 ## 🌐 Socials:
